@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaphaeshaa.lesepraxis.com/sitemap.xml
